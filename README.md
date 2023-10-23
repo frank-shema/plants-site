@@ -1,3 +1,6 @@
+![Screenshot from 2023-10-23 20-21-57](https://github.com/frank-shema/plants-site/assets/128337368/9444015a-8623-4bc9-b296-a8b13ca20f1d)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
